@@ -1252,7 +1252,7 @@ M.Mus.
 B.Ed.
 M.Ed.
 Bundesgesetzbl.
-Reichtsgesetzbl.
+Reichsgesetzbl.
 NRW.
 GMBl.
 BStBl.
